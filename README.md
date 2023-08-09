@@ -1,1 +1,1 @@
-advanced html
+Web Stack specialization
